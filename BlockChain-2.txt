@@ -1,0 +1,11 @@
+Blockchain is an infrastructure where a distributed digital ledger is maintained by a network of computers or nodes. This means information of a financial or nonfinancial transaction is shared with a decentralised network and validated by the entire network. Therefore, a blockchain framework, not being managed centrally, effectively reduces the chances of data manipulation and leaves lesser scope for a hacker to corrupt one system. 
+
+“Where we lag is enforcement of contracts and registration of land in the ease of doing business index. Seventy per cent of our district civil cases are related to land disputes. This is due to inefficient linkage between the registration system and record of rights system. Niti will do two-three PoCs utilising blockchain technology to make this process simpler by putting the transaction online and making land transactions transparent and secure,” said Aalekh Sharan, officer on special duty to C .. 
+
+“This will have the effect of converting a record of transactions into the record of rights. We will measure the results of those PoCs to learn from them and make future implementation even better 
+
+
+Read more at:
+//economictimes.indiatimes.com/articleshow/62957264.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+
+Reference: https://economictimes.indiatimes.com/news/economy/policy/niti-aayog-plans-paper-on-blockchain-technology-for-land-health-records/articleshow/62957264.cms
